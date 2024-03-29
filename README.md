@@ -1,7 +1,5 @@
 # FILE FUNCTION TRACING AGENT
 
---------------------------------------------------------------------------
-
 Version 1.0, 18-02-1998
 Copyright 1998 by Hakan Emre Kartal. All Rights Reserved.
 https://github.com/AInteligent, hek@nula.com.tr
