@@ -152,15 +152,15 @@ Good luck...
 
 # !!! WARNING !!!
 
-The copyright holder offers no warranty with this code whatsoever,
-including its fitness for any particular purpose. Neither shall  be liable
-for damages of any kind that may arise from its use.
-
-If you consider using all or parts of this code in your own
-product, you may get permission from the author.
-
-NOT: If an error occours, change the GEN_TIME value. If the error
-continues, please fill and send the error declaration form to me.
+        The copyright holder offers no warranty with this code whatsoever,
+        including its fitness for any particular purpose. Neither shall  be liable
+        for damages of any kind that may arise from its use.
+        
+        If you consider using all or parts of this code in your own
+        product, you may get permission from the author.
+        
+        NOT: If an error occours, change the GEN_TIME value. If the error
+        continues, please fill and send the error declaration form to me.
 
 Hakan Emre Kartal
 hek@nula.com.tr
