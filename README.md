@@ -13,9 +13,7 @@ but it may be increased according to the request. It is up to your  talent
 and knowledge. Now,  let  me  give  some  instructions  about  these  file
 functions briefly:
 
---------------------------------------------------------------------------
-
-1. CREATE A FILE WITH HANDLE (3Ch):
+# 1. CREATE A FILE WITH HANDLE (3Ch):
 
         Input:
                 AH = 3Ch
@@ -25,9 +23,7 @@ functions briefly:
                 If there is an error CF=1 and AX=error no, else CF=0 and
                 AX=file handle.
 
---------------------------------------------------------------------------
-
-2. OPEN A FILE WITH HANDLE (3Dh):
+# 2. OPEN A FILE WITH HANDLE (3Dh):
         Input:
                 AH = 3Dh
                 AL = Open mode 
@@ -36,18 +32,14 @@ functions briefly:
                 If there is an error CF=1 and AX=error no, else CF=0 and
                 AX=file handle.
 
---------------------------------------------------------------------------
-
-3. CLOSE A FILE WITH HANDLE (3Eh):
+# 3. CLOSE A FILE WITH HANDLE (3Eh):
         Input:
                 AH = 3Eh
                 BX = File handle
         Output:
                 If there is an error CF=1 and AX=error code.
 
---------------------------------------------------------------------------
-
-4. READ A FILE WITH HANDLE (3Fh):
+# 4. READ A FILE WITH HANDLE (3Fh):
         Input:
                 AH = 3Fh
                 BX = File handle
@@ -57,9 +49,7 @@ functions briefly:
                 If there is an error CF=1 and AX=error code else
                 CF=0 and AX=Length
 
---------------------------------------------------------------------------
-
-5. WRITE A FILE WITH HANDLE (40h):
+# 5. WRITE A FILE WITH HANDLE (40h):
         Input:
                 AH = 40h
                 BX = File handle
