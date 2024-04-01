@@ -164,6 +164,3 @@ Good luck...
 
 Hakan Emre Kartal
 hek@nula.com.tr
-
-
-[Email Me](mailto:hek@nula.com.tr)
