@@ -26,12 +26,12 @@ type
 const
   TusBitStr: array[TCubukBit] of string[10] = (
     ' Tamam ',
-    ' De§iŸtir ',
-    ' ˜ptal ',
-    ' ™nceki ',
+    ' DeÂ§iÅ¸tir ',
+    ' Ëœptal ',
+    ' â„¢nceki ',
     ' Sonraki ',
-    ' Yardm ',
-    ' €kŸ ',
+    ' YardÂm ',
+    ' â‚¬ÂkÂÅ¸ ',
     ' A: ',
     ' B: ',
     ' C: ',
