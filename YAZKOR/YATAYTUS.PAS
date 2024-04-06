@@ -1,7 +1,7 @@
 {  ==================================================  }
 {                                                      }
-{       Borland PASCAL €alŸtrma Ktphanesi          }
-{       Satr Menu OluŸturma Birimi                    }
+{       Borland PASCAL â‚¬alÂÅ¸tÂrma KÂtÂphanesi          }
+{       SatÂr Menu OluÅ¸turma Birimi                    }
 {                                                      }
 {       Fikir, Programlama: Hakan Emre KARTAL          }
 {                                                      }
@@ -58,12 +58,12 @@ const
   CTuslarStrBoy = 12;
   Tuslar: array[TTuslarKod] of string[CTuslarStrBoy] = (
     '  &T&amam   ',
-    ' &D&e§iŸtir ',
-    '  ˜&p&tal   ',
-    ' ™&n&ceki   ',
+    ' &D&eÂ§iÅ¸tir ',
+    '  Ëœ&p&tal   ',
+    ' â„¢&n&ceki   ',
     ' S&o&nraki  ',
-    '  Ya&r&dm  ',
-    '  €&k&Ÿ   '
+    '  Ya&r&dÂm  ',
+    '  â‚¬Â&k&ÂÅ¸   '
   );
   Karakterler: array[TTuslarKod] of Char = 'TDPNORK';
 var
@@ -75,13 +75,13 @@ var
   Say,
   L: TTuslarKod;
 
-{ Onaylanan tuŸun hangisi oldu§unu anlamak i‡in bit de§eri test ediliyor }
+{ Onaylanan tuÅ¸un hangisi olduÂ§unu anlamak iâ€¡in bit deÂ§eri test ediliyor }
   function Test: Boolean;
   begin
     Test := (Deger and (1 shl Ord(Tus)) <> 0);
   end;
 
-  { Aktif olan tuŸlar ekranan listeleniyor }
+  { Aktif olan tuÅ¸lar ekranan listeleniyor }
   procedure TusListe;
   var
     C: TTuslarKod;
@@ -105,7 +105,7 @@ var
     end;
   end;
 
-  { Kullanlmayan tuŸlar ge‡iliyor }
+  { KullanÂlmayan tuÅ¸lar geâ€¡iliyor }
   procedure TusGec(var T, C: TTuslarKod);
   var
     A, B: TTuslarKod;
