@@ -22,5 +22,9 @@
     have also los their function. The codes here are shared for informational purposes.
     If you still want to use it, all responsibility lies with you.
 
+## Ekran Görüntüsü / Screenshot
+
+![ANTI-CCC](http://url/to/img.png)
+
 Hakan Emre KARTAL
 hek@nula.com.tr
