@@ -39,7 +39,7 @@
 #define  DOGRU             1
 #define  YANLIS            !(DOGRU)
 
-static  char VirusImza[]   = "¸\0Ø¡\0ğ=1Àt\13¸";
+static  char VirusImza[]   = "Â¸\0ÂÅ½Ã˜Â¡\0Ã°=1Ã€t\13Â¸";
 extern  int  DiskCevrim    = HATAYOK;
 
 int Surucu(char Ch) {
@@ -94,28 +94,28 @@ int BasilanMesaj(const char *Mesaj) {
 int Hatalar() {
    switch (DiskCevrim) {
       case H_YAZMA:
-         printf("\rDisk(et) yazma karŸ korumal.");
+         printf("\rDisk(et) yazÂma karÅ¸Â korumalÂ.");
          break;
       case H_SEKTOR:
-         printf("\rSekt”r bulunamyor");
+         printf("\rSektâ€r bulunamÂyor");
          break;
       case H_BOZUK_SEKTOR:
-         printf("\rSekt”r bozuk");
+         printf("\rSektâ€r bozuk");
          break;
       case H_CRC:
-         printf("\rDisk(et)te CRC hatas giderilemedi");
+         printf("\rDisk(et)te CRC hatasÂ giderilemedi");
          break;
       case H_DRV_YOK:
-         printf("\rHard disk src yuvas boŸ...");
+         printf("\rHard disk sÂrÂcÂ yuvasÂ boÅ¸...");
          break;
       case H_DSK_DRV_YOK:
-         printf("\rDisket src yuvas boŸ...");
+         printf("\rDisket sÂrÂcÂ yuvasÂ boÅ¸...");
          break;
       default:
-         printf("\rBelirsiz bir hata oluŸtu.");
+         printf("\rBelirsiz bir hata oluÅ¸tu.");
          break;
    }
-   return(BasilanMesaj("(T)ekrar - (V)azge‡: "));
+   return(BasilanMesaj("(T)ekrar - (V)azgeâ€¡: "));
 }
 
 int Algila(int C, int D, int H, int T, int S, void *Alan) {
