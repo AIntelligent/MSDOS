@@ -22,10 +22,10 @@ const
     COzellikStrBoy
   );
 
-  CBosDizinStr = '! BOû !';
+  CBosDizinStr = '! BO≈æ !';
   CArananlarStr = '*.*';
-  CDizinStr = '<DòZòN>';
-  CBirDizinUsteStr = ' öSTE ';
+  CDizinStr = '<DÀúZÀúN>';
+  CBirDizinUsteStr = ' ≈°STE ';
 
   CDosyaRenk = $9B;
   CDizinRenk = $9E;
@@ -60,7 +60,7 @@ const
   CSag = True;
   CSol = False;
 
-{ Genel deßiükenler. }
+{ Genel de¬ßi≈∏kenler. }
 var
   fSayfa,
   fKayit,
