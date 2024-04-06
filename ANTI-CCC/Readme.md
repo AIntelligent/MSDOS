@@ -24,7 +24,7 @@
 
 # Ekran Alıntısı/Screenshot
 
-    ![ANTI-CCC](https://github.com/AIntelligent/MSDOS/blob/3c88a6f960591cde6c8bbbdf1317ff6c5740fb13/ANTI-CCC/ANTI-CCC_1.PNG)
+![ANTI-CCC](https://github.com/AIntelligent/MSDOS/blob/3c88a6f960591cde6c8bbbdf1317ff6c5740fb13/ANTI-CCC/ANTI-CCC_1.PNG)
 
 Hakan Emre KARTAL
 hek@nula.com.tr
