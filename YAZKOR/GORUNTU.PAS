@@ -1,9 +1,9 @@
 {
 
- Gncelleme:
+ GÂncelleme:
 
    4/Haziran/2000: DoldurPen birimi eklendi.
-                   Pencere, OgrenOfs, Merkez tamamen ASM ile yazld.
+                   Pencere, OgrenOfs, Merkez tamamen ASM ile yazÂldÂ.
 
 }
 
@@ -45,12 +45,12 @@ const
   CBelirtec = '&';
 
 var
-  GoRenk,               { Pencere g”lge rengi }
-  PeRenk: Byte;         { Pencere ‡er‡eve rengi }
-  Baslik: TMesaj;       { Pencere baŸl§ }
+  GoRenk,               { Pencere gâ€lge rengi }
+  PeRenk: Byte;         { Pencere â€¡erâ€¡eve rengi }
+  Baslik: TMesaj;       { Pencere baÅ¸lÂÂ§Â }
   GrSeg,
   EsKursor,
-  BsRenk: Word;         { Pencere baŸlk rengi (Aktiflenebilir) }
+  BsRenk: Word;         { Pencere baÅ¸lÂk rengi (Aktiflenebilir) }
 
 function KursorNerede: Word;
 procedure KursorGonder(Sutun, Satir: Byte);
