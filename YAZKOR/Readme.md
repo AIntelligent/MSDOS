@@ -30,5 +30,7 @@
 
 ## Ekran Alıntıları/Screensohts
 
+![YAZKOR_1]()
+
 Hakan Emre KARTAL
 hek@nula.com.tr
