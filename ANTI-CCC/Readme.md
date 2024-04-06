@@ -19,7 +19,7 @@
     If the virus is active in memory, it first passive it.
 
     Note: Since MS-DOS operatin system were replaced by MS-Windows, boot sector viruses
-    have also los their function. The codes here are shared for informational purposes.
+    have also lost their function. The codes here are shared for informational purposes.
     If you still want to use it, all responsibility lies with you.
 
 # Ekran Alıntısı/Screenshot
