@@ -50,7 +50,7 @@ const
   Arananlar: string = 'EXECOMDLLPRGOVROVLFONTTFFOTCPLDRV3863GR2GRCNFMOD';
 
   AcilisStr = #13#10#13#10'ANTi-TPVO.3783, uyarlama 1.0,1998'^J^M +
-              'Hakan Emre KARTAL, Iskenderun/HATAY, 19/10/1998'^J^M;
+              'Hakan Emre KARTAL, Iskenderun/HATAY, 19/EKiM/1998'^J^M;
 
 {$F+}
 
@@ -58,7 +58,7 @@ procedure HataliCikis;
 begin
   ErrorAddr := nil;
   ExitCode := 0;
-  WriteLn(^J^M'Bir hata olustu. Ltfen kontrol edip tekrar deneyiniz...');
+  WriteLn(^J^M'Bir hata olustu. LÂtfen kontrol edip tekrar deneyiniz...');
 end;
 
 {$F-}
@@ -81,7 +81,7 @@ function Onay: Boolean;
 var
   Ch: Char;
 begin
-  Write(#13#10'Dosyada TPVO virs bulundu !!!');
+  Write(#13#10'Dosyada TPVO virÂsÂ bulundu !!!');
   Write(#13#10'Temizlensin mi ? (E)vet - (H)ayir: ');
   repeat Ch := (UpCase(ReadKey)); until (Ch in ['E', 'H']);
   Onay := (Ch = 'E');
@@ -260,7 +260,7 @@ begin
 
   if (TPVOKontrol) then
   begin
-    WriteLn('Bellekte TPVO virsne rastlandi!');
+    WriteLn('Bellekte TPVO virÂsÂne rastlandi!');
     Halt(0);
   end;
 
@@ -271,8 +271,8 @@ begin
   I := Pos(':', Giris);
   if (I = 0) then
   begin
-    WriteLn('Src belirtilmedi.');
-    WriteLn(#13#10'Kullanm TPVOSIL [Src]: /HEDEF');
+    WriteLn('SÂrÂcÂ belirtilmedi.');
+    WriteLn(#13#10'KullanÂm TPVOSIL [SÂrÂcÂ]: /HEDEF');
     Halt(2);
   end;
 
@@ -310,6 +310,6 @@ begin
   ClrEol;
 
   WriteLn('Toplam     (', Toplam:12, ') dosyadan;');
-  WriteLn('Virsl    (', Viruslu:12, ') dosya bulundu,');
+  WriteLn('VirÂslÂ    (', Viruslu:12, ') dosya bulundu,');
   WriteLn('Temizlenen (', Temizlenen:12, ') tane dosyadir.');
 end.
