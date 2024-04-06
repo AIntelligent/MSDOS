@@ -27,7 +27,7 @@
     If you still want to use it, all responsibility lies with you.
 
 # Ekran Alıntısı/Screenshot
-
+![ANTI-TPVO.3783](https://github.com/AIntelligent/MSDOS/blob/809d331d8690f909dddb77e396cb44ef6819d91d/ANTI-TPVO.3783/TPVO_1.PNG)
 
 Hakan Emre KARTAL
 hek@nula.com.tr
