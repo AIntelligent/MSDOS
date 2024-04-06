@@ -36,7 +36,5 @@
 ![YAZKOR_1](https://github.com/AIntelligent/MSDOS/blob/a710312cb96d2fbb3b627ed9d9156d0ebfc12a35/YAZKOR/YAZKOR_4.PNG)
 ![YAZKOR_1](https://github.com/AIntelligent/MSDOS/blob/a710312cb96d2fbb3b627ed9d9156d0ebfc12a35/YAZKOR/YAZKOR_5.PNG)
 
---
-
 Hakan Emre KARTAL
 hek@nula.com.tr
