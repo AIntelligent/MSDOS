@@ -475,7 +475,7 @@ begin
     SiraFunc := BoyaGore;
     Sira.Duzen(DizinSayac + 1, ListeSayac);
 
-    Baslik := ' GEZG˜N ';
+    Baslik := ' GEZGÂ˜N ';
     PeRenk := CDosyaRenk;
     BsRenk := CDizinRenk;
     Pencere(
