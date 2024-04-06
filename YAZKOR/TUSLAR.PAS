@@ -1,7 +1,7 @@
 {  ===========================================================  }
 {                                                               }
-{       Borland PASCAL Äalçütçrma KÅtÅphanesi                   }
-{       Klavye Kullançm Birimi                                  }
+{       Borland PASCAL ‚Ç¨al¬ç≈∏t¬çrma K¬Åt¬Åphanesi                   }
+{       Klavye Kullan¬çm Birimi                                  }
 {                                                               }
 {       Fikir, Kodlama, Programlama Hakan Emre KARTAL           }
 {                                                               }
