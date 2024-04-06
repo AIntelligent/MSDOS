@@ -5,8 +5,8 @@
  * Iskenderun/HATAY
  * 18/07/1998
  *
- * ISTANBUL-CCC boot sekt”r virsn diskten temizler.
- * E§er virs bellekte aktifse ”nce pasifleŸtirir.
+ * ISTANBUL-CCC boot sektâ€r virÂsÂnÂ diskten temizler.
+ * EÂ§er virÂs bellekte aktifse â€nce pasifleÅ¸tirir.
  *
  * It cleans the ISTANBUL-CCC boot sector vrius from the disk.
  * If the virus is active in memory, it first passive it.
@@ -29,17 +29,17 @@ int HataDuzelt() {
    if (DiskCevrim != 0) {
       Cevrim++;
       if (Cevrim >= 4) {
-	 printf("\n€evrimsel hata taŸmas...\n");
+	 printf("\nâ‚¬evrimsel hata taÅ¸masÂ...\n");
 	 return(-1);
       }
       if (Hatalar() == SONLANDIR) {
-	 printf("\nAlglanan hata sebebiyle program durduruldu.\n\n");
+	 printf("\nAlgÂlanan hata sebebiyle program durduruldu.\n\n");
 	 SurucuDegistir(Surucu(X));
 	 return(-1);
       }
    }
 
-   return(0); // Hatasz
+   return(0); // HatasÂz
 }
 
 
@@ -52,21 +52,21 @@ int main() {
 
      printf("ANTi iSTANBUL-CCC, Uyarlama 1.01/1998\n\n\r");
 
-     printf("Hakan Emre KARTAL, ˜skenderun/HATAY, 18/07/1998\n\r");
+     printf("Hakan Emre KARTAL, Ëœskenderun/HATAY, 18/07/1998\n\r");
      printf("hek@nula.com.tr\n\n\r" );
 
      Cevrim = BellekKontrol();
-     printf("\n\nBellek testi: %s", (Cevrim) ? ("TAMAM"):("V˜RšSLš"));
+     printf("\n\nBellek testi: %s", (Cevrim) ? ("TAMAM"):("VËœRÅ¡SLÅ¡"));
 
      if (!Cevrim) {
-	printf("\nVirs bellekte pasif hale getirildi...");
+	printf("\nVirÂs bellekte pasif hale getirildi...");
 	Pasiflestir();
      }
 
      X = (char)(AktifSurucu() + 'A');
 
      do {
-	printf("\r\n\nSrc: ");
+	printf("\r\n\nSÂrÂcÂ: ");
 
 	Ch = getch();
 
@@ -93,10 +93,10 @@ int main() {
 
 	if (SektorKontrol(Boot)) {
 
-	   printf("\rSrcde ˜STANBUL-CCC virs bulundu; ", Ch);
+	   printf("\rSÂrÂcÂde ËœSTANBUL-CCC virÂsÂ bulundu; ", Ch);
 
-	   if (BasilanMesaj("(T)emizle - (V)azge‡: ") == SONLANDIR) {
-	      printf("\nSrcden virs temizlenmedi !!!\n\n\7");
+	   if (BasilanMesaj("(T)emizle - (V)azgeâ€¡: ") == SONLANDIR) {
+	      printf("\nSÂrÂcÂden virÂs temizlenmedi !!!\n\n\7");
 
 	      break;
 	   } else {
