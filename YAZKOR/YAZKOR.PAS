@@ -1,18 +1,18 @@
 {
-  YAZILIM KORUYUCU (YAZKOR) EKLEY˜C˜ YARDIMCI ARACI
+  YAZILIM KORUYUCU (YAZKOR) EKLEYËœCËœ YARDIMCI ARACI
   Hakan Emre KARTAL
   hek@nula.com.tr
   25/07/2000
 
-  Bu yardmc ara‡; geliŸtirdi§iniz programlarnzn
-  izinsiz kopyalanmasn ”nleyen ve Ÿifre ile kullanlmasn
-  sa§layan YAZILIM KORUYUCU eklentisini, belirledi§iniz
-  ‡alŸabilir (EXE,COM) dosyalara kolayca eklemenizi sa§lar.
+  Bu yardÂmcÂ araâ€¡; geliÅ¸tirdiÂ§iniz programlarÂnÂzÂn
+  izinsiz kopyalanmasÂnÂ â€nleyen ve Å¸ifre ile kullanÂlmasÂnÂ
+  saÂ§layan YAZILIM KORUYUCU eklentisini, belirlediÂ§iniz
+  â€¡alÂÅ¸abilir (EXE,COM) dosyalara kolayca eklemenizi saÂ§lar.
 
-  Not: Bahsedilen YAZILIM KORUYUCU eklentisi, MS-DOS iŸletim sistemi
-  i‡in geliŸtirilen programlar korumaktadr. YAZILIM KORUYUCU, daha
-  sonraki yllarda MS-Windows 32bit ve 64bit i‡in uyarlanmŸ ve halen
-  kullanlabilir durumdadr. Bu sebeple kasten bu kodlardan ‡kartlmŸtr.
+  Not: Bahsedilen YAZILIM KORUYUCU eklentisi, MS-DOS iÅ¸letim sistemi
+  iâ€¡in geliÅ¸tirilen programlarÂ korumaktadÂr. YAZILIM KORUYUCU, daha
+  sonraki yÂllarda MS-Windows 32bit ve 64bit iâ€¡in uyarlanmÂÅ¸ ve halen
+  kullanÂlabilir durumdadÂr. Bu sebeple kasten bu kodlardan â€¡ÂkartÂlmÂÅ¸tÂr.
 
   This helpful tool; It allows to easily added the YAZILIM KORUYUCU
   plug-in, which prevents your developed programs from being copied
@@ -53,11 +53,11 @@ const
   CTusSatirBoy = 2;
   CTuslarUyariRenk = $FCF0;
   CTuslarStr = (
-    '&Alt+X&-€kŸ &'#$19#$18'&-Yukar/AŸa§ &PgUp&/&Dn&-Sayfa Yukar/AŸa§ ' +
-    '&Home&-˜lk &End&-Son'#13#10 +
-    '&F1&-Yardim &F2&-Src &F5&-Hakknda &Ins&-˜Ÿaretle/Brak &Alt+T&-˜ptal'#13#10 +
-    '&Alt+D&-Di§erlerini se‡ &Alt+H&-Hepsini se‡ &F3&-Dosyalar iŸle ' +
-    '&Enter&-Dosyay iŸle'
+    '&Alt+X&-â‚¬ÂkÂÅ¸ &'#$19#$18'&-YukarÂ/AÅ¸aÂ§Â &PgUp&/&Dn&-Sayfa YukarÂ/AÅ¸aÂ§Â ' +
+    '&Home&-Ëœlk &End&-Son'#13#10 +
+    '&F1&-Yardim &F2&-SÂrÂcÂ &F5&-HakkÂnda &Ins&-ËœÅ¸aretle/BÂrak &Alt+T&-Ëœptal'#13#10 +
+    '&Alt+D&-DiÂ§erlerini seâ€¡ &Alt+H&-Hepsini seâ€¡ &F3&-DosyalarÂ iÅ¸le ' +
+    '&Enter&-DosyayÂ iÅ¸le'
   );
 
 var
@@ -145,7 +145,7 @@ const
   CDizinBilgiRenk = $979B;
 begin
   Goster(
-    '&Se‡ilen &' +
+    '&Seâ€¡ilen &' +
     ChrEkle(' ', CBoyStrBoy, BoyStr(sSecilen), True) + '& Dosya  &' +
     ChrEkle(' ', CBoyStrBoy, BoyStr(SecilenBoy), True) + '& Byte',
     2,
@@ -165,8 +165,8 @@ begin
   sp := (fKayit + fSayfa);
 
   Goster(
-    '&' + ChrEkle('ú', 5, BoyStr(sListe), True) + '&:&' +
-    ChrEkle('ú', 5, BoyStr(sP), True),
+    '&' + ChrEkle('Ãº', 5, BoyStr(sListe), True) + '&:&' +
+    ChrEkle('Ãº', 5, BoyStr(sP), True),
     68,
     ((GSatir + CSayfaBoy) + 2),
     $9F97,
@@ -209,7 +209,7 @@ const
     'Uyarlama 1.03',
     'Hakan Emre KARTAL',
     '25/07/2000',
-    '˜skenderun/HATAY',
+    'Ëœskenderun/HATAY',
     'hek@nula.com.tr'
   );
 
@@ -277,10 +277,10 @@ const
   CEncokYardimStr = 4;
 
   YardimStr: array[1..CEncokYardimStr] of string[58] = (
-    'Bu yardmc ara‡; geliŸtirdi§iniz programlarnzn',
-    'izinsiz kopyalanmasn ”nleyen ve Ÿifre ile kullanlmasn',
-    'sa§layan &YAZILIM KORUYUCU& eklentisini, belirledi§iniz',
-    '‡alŸabilir (EXE,COM) dosyalara kolayca eklemenizi sa§lar.'
+    'Bu yardÂmcÂ araâ€¡; geliÅ¸tirdiÂ§iniz programlarÂnÂzÂn',
+    'izinsiz kopyalanmasÂnÂ â€nleyen ve Å¸ifre ile kullanÂlmasÂnÂ',
+    'saÂ§layan &YAZILIM KORUYUCU& eklentisini, belirlediÂ§iniz',
+    'â€¡alÂÅ¸abilir (EXE,COM) dosyalara kolayca eklemenizi saÂ§lar.'
   );
 
   CYardimPEn = 61;
@@ -354,7 +354,7 @@ begin
   BsRenk := $F4;
   GoRenk := $40;
 
-  Baslik := ' ˜LENECEK DOSYA ';
+  Baslik := ' ËœÂLENECEK DOSYA ';
 
   Pencere(
       CSecilenPSutun,
@@ -368,7 +368,7 @@ begin
     );
 
   Goster(
-      '&Se‡ilen&: ' + Secilen,
+      '&Seâ€¡ilen&: ' + Secilen,
       CSecilenPSutun + 2,
       CSecilenPSatir + 2, $4E4F,
       goBelirt
@@ -412,7 +412,7 @@ begin
     (Satir + 3)
   );
 
-  Baslik := 'Srcy se‡iniz.';
+  Baslik := 'SÂrÂcÂyÂ seâ€¡iniz.';
   PeRenk := CPenRenk;
   BsRenk := CBaslikRenk;
   GoRenk := CGolgeRenk;
@@ -458,7 +458,7 @@ var
   O: TOlay;
 
 {$F+}
-{ Hedeflenen dosyalar dŸndakiler ge‡ilecek }
+{ Hedeflenen dosyalar dÂÅ¸Ândakiler geâ€¡ilecek }
 function HedefSuzgec(const Bulunan: SearchRec): Boolean;
 
   function UzantiAl: string;
