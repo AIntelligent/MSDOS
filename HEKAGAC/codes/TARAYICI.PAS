@@ -384,8 +384,8 @@ begin
   WriteLn;
   WriteLn('':SEKME_BOSLUK, 'Hedef Yol: ', HedefYol);
   WriteLn;
-  WriteLn('':SEKME_BOSLUK, 'Toplam Dizin Says: ', ToplamDizinSayisi);
-  WriteLn('':SEKME_BOSLUK, 'Seviye Says: ', (1 + SeviyeSayisi));
+  WriteLn('':SEKME_BOSLUK, 'Toplam Dizin SayÂsÂ: ', ToplamDizinSayisi);
+  WriteLn('':SEKME_BOSLUK, 'Seviye SayÂsÂ: ', (1 + SeviyeSayisi));
   WriteLn;
 
   if (AyrintiGoster) then
