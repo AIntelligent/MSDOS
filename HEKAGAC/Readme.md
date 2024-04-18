@@ -3,11 +3,15 @@
     HEK DiZiN AGAC, uyarlama 1.0,1996
     Hakan Emre KARTAL, Iskenderun/HATAY,23/11/1996
 
-    Not: Hakkında bölümündeki kişisel bilgilerin bazıları güncel halleriyle değiştirildi, bazıları ise silindi.
+#### TR 
+        Not: Kişisel bilgilerin bazıları güncel halleriyle değiştirildi ya da silindi.
+#### EN:    
+        Note: Some of the personal information has been changed to its current form or deleted. 
 
 ### Ne Yapar?
     
     Bu program belirtilen dizin ve alt dizinlerin haritasını bağlantı ağacı şeklinde görüntüler.
+    This program scans specified folders and subfolders, allowing the link to be visualized as a tree.
 
 ## Ekran Görüntüleri / Screenshots
 ![HEKAGAC_1](https://github.com/AIntelligent/MSDOS/blob/f53ffdf2d8c3e36e170f99cb7b6f81538edca6b7/HEKAGAC/screenshots/HEKAGAC_1.PNG)
