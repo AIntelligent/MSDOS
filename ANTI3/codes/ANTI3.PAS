@@ -65,20 +65,20 @@ const
   );
 
   AntiTPVO3783: TAntiVirus = (
-    Ad:           'TPVO.3783';   { Aranan virs }
-    VirusChar:    CharTPVO3783;  { Virsn imzas }
-    OrjBuff:      $0E87;         { Kontrol alan nereden baŸlyor }
-    OrjStack:     $0E95;         { Asl SS:SP nereden baŸlyor }
-    OrjBaslangic: $0E9B;         { Asl CS:IP nereden baŸlyor }
-    BaslaCOM:     $0003;         { COM dosyada imza s‡ramadan ka‡ bayt sonra }
-    ParaKayma:    $0000;         { EXE ve COM dosyann OFS'unda kayma varm }
-    SayfaKayma:   $0000;         { EXE dosyann OFS'unda kayma var m }
-    COMBuffBoy:   $0003;         { COM dosyaya ka‡ byte ekleme yapar }
+    Ad:           'TPVO.3783';   { Aranan virÂs }
+    VirusChar:    CharTPVO3783;  { VirÂsÂn imzasÂ }
+    OrjBuff:      $0E87;         { Kontrol alanÂ nereden baÅ¸lÂyor }
+    OrjStack:     $0E95;         { AsÂl SS:SP nereden baÅ¸lÂyor }
+    OrjBaslangic: $0E9B;         { AsÂl CS:IP nereden baÅ¸lÂyor }
+    BaslaCOM:     $0003;         { COM dosyada imza sÂâ€¡ramadan kaâ€¡ bayt sonra }
+    ParaKayma:    $0000;         { EXE ve COM dosyanÂn OFS'unda kayma varmÂ }
+    SayfaKayma:   $0000;         { EXE dosyanÂn OFS'unda kayma var mÂ }
+    COMBuffBoy:   $0003;         { COM dosyaya kaâ€¡ byte ekleme yapar }
     Sonra:        nil
   );
 
   AntiTrakia561: TAntiVirus = (
-    Ad:           'TRAK˜A.561';
+    Ad:           'TRAKËœA.561';
     VirusChar:    CharTrakia561;
     OrjBuff:      $0427;
     OrjStack:     $0420;
@@ -105,14 +105,14 @@ const
 
   AntiVirus: PAntiVirus = @AntiOxana;
 
-  { Dosylar i‡inden sadece baklacak olanlar }
+  { Dosylar iâ€¡inden sadece bakÂlacak olanlar }
   Aranacaklar: string = 'COMDLLDRVEXEPRGOVLOVR';
 
-  { BaŸka bir virs bulaŸmŸ m ? }
+  { BaÅ¸ka bir virÂs bulaÅ¸mÂÅ¸ mÂ ? }
   VirusDevam: Boolean = False;
 
   Acilis = (
-    'ANTi TPVO.3783 TRAK˜A.561 OXANA, uyarlama 1.1'#13#10#13#10 +
+    'ANTi TPVO.3783 TRAKËœA.561 OXANA, uyarlama 1.1'#13#10#13#10 +
     'Hakan Emre KARTAL, hek@nula.com.tr'#13#10 +
     '21/10/1998 - Iskenderun/HATAY'#13#10
   );
