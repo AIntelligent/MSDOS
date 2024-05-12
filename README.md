@@ -1,10 +1,10 @@
 # HAKKINDA/ABOUT
 
 # TR
-Burada geçmiş yıllarda MS-DOS için yaptığım bazı çalışmaları bulacaksınız. Burası benim işlerimin bir nevi müzesidir.
+    Burada geçmiş yıllarda MS-DOS için yaptığım bazı çalışmaları bulacaksınız. Burası benim işlerimin bir nevi müzesidir.
 
 # EN
-Here you will find some of my work from the past years, made for MS-DOS. This is a kind of museum of my work.
+    Here you will find some of my work from the past years, made for MS-DOS. This is a kind of museum of my work.
 
 # 1CWATCH MS-DOS TSR CLOCK
 
