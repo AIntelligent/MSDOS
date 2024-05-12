@@ -6,11 +6,11 @@
 # EN
     Here you will find some of my work from the past years, made for MS-DOS. This is a kind of museum of my work.
 
-# 1CWATCH MS-DOS TSR CLOCK
+# (1): 1CWATCH MS-DOS TSR CLOCK
 
 ![1CWATCH](https://github.com/AIntelligent/MSDOS/blob/ebaa74adf68421166e9397e195e6e2bfa1c0a197/1CWATCH/screenshots/1CWATCH_1.PNG)
 
-# ANTI ISTANBUL-CCC BOOT SECTOR VIRUS
+# (2): ANTI ISTANBUL-CCC BOOT SECTOR VIRUS
 
 ## TR
     Hakan Emre KARTAL tarafından İskenderun/HATAY'da 18/07/1998 tarihinde yazıldı,
@@ -38,7 +38,7 @@
 
 ![ANTI-CCC](https://github.com/AIntelligent/MSDOS/blob/67b94596f017f2fb15260b0b2d160adae3821ca3/ANTI-CCC/screenshots/ANTI-CCC_1.PNG)
 
-# TPVOSIL/ANTI-TPVO.3783
+# (3): TPVOSIL/ANTI-TPVO.3783
 
 ## TR
     Hakan Emre KARTAL tarafından İskenderun/HATAY'da 19/10/1998 tarihinde yazıldı.
@@ -68,7 +68,7 @@
 # Ekran Alıntısı/Screenshot
 ![ANTI-TPVO.3783](https://github.com/AIntelligent/MSDOS/blob/8252148dde47e1b2807b12a93a086f4c64094456/ANTI-TPVO.3783/screenshots/TPVO_1.PNG)
 
-# FILE FUNCTION TRACING AGENT
+# (4): FILE FUNCTION TRACING AGENT
 
 Version 1.0, 18-02-1998
 Copyright 1998 by Hakan Emre Kartal. All Rights Reserved.
@@ -232,7 +232,7 @@ Good luck...
         NOT: If an error occours, change the GEN_TIME value. If the error
         continues, please fill and send the error declaration form to me.
 
-# HEK DİZİN AĞAÇ
+# (5): HEK DİZİN AĞAÇ
 
     HEK DiZiN AGAC, uyarlama 1.0,1996
     Hakan Emre KARTAL, Iskenderun/HATAY,23/11/1996
@@ -258,7 +258,7 @@ Good luck...
 ![HEKAGAC_1](https://github.com/AIntelligent/MSDOS/blob/f53ffdf2d8c3e36e170f99cb7b6f81538edca6b7/HEKAGAC/screenshots/HEKAGAC_4.PNG)
 ![HEKAGAC_1](https://github.com/AIntelligent/MSDOS/blob/f53ffdf2d8c3e36e170f99cb7b6f81538edca6b7/HEKAGAC/screenshots/HEKAGAC_5.PNG)
 
-# YAZILIM KORUYUCU (YAZKOR) EKLEYİCİ YARDIMCI ARACI
+# (6): YAZILIM KORUYUCU (YAZKOR) EKLEYİCİ YARDIMCI ARACI
 
 ## TR
     Hakan Emre KARTAL tarafından İskenderun/HATAY'da 25/07/2000 tarihinde yazıldı,
@@ -296,7 +296,7 @@ Good luck...
 ![YAZKOR_4](https://github.com/AIntelligent/MSDOS/blob/ad4eeae729f1ec299bc5ee1f7eb8e77a0c026ebc/YAZKOR/screenshots/YAZKOR_4.PNG)
 ![YAZKOR_5](https://github.com/AIntelligent/MSDOS/blob/ad4eeae729f1ec299bc5ee1f7eb8e77a0c026ebc/YAZKOR/screenshots/YAZKOR_5.PNG)
 
-## ANTI TPVO.3783 TRAKIA.561 OXANA, uyarlama 1.0
+## (7): ANTI TPVO.3783 TRAKIA.561 OXANA, uyarlama 1.0
 
 ## TR
     Hakan Emre KARTAL tarafından İskenderun/HATAY'da 21/10/1998 tarihinde yazıldı,
@@ -311,7 +311,7 @@ Good luck...
 ![ANTI3_2](https://github.com/AIntelligent/MSDOS/blob/9ac9d6367ddf5d2ff6f16b67fc5f1bfbb086f5e8/ANTI3/screenshots/ANTI3_2.PNG)
 ![ANTI3_3](https://github.com/AIntelligent/MSDOS/blob/9ac9d6367ddf5d2ff6f16b67fc5f1bfbb086f5e8/ANTI3/screenshots/ANTI3_3.PNG)
 
-## GRAFIK ORTAMDA DIJITAL VE ANALOG SAAT, uyarlama 1.0
+## (8): GRAFIK ORTAMDA DIJITAL VE ANALOG SAAT, uyarlama 1.0
 
     Hakan Emre KARTAL tarafından İskenderun/HATAY'da 04/05/1999 tarihinde yazıldı,
     Borland Turbo Pascal 6.0 ile derlendi.
@@ -322,7 +322,6 @@ Good luck...
 
 ## Ekran Alıntıları/Screenshots
 ![SAAT_1](https://github.com/AIntelligent/MSDOS/blob/95f67ca4a09f7de70ac34c785d2c89a6f48682bb/SAAT/screenshots/SAAT_1.PNG)
-    
 
 Hakan Emre KARTAL
 hek@nula.com.tr
