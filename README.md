@@ -1,3 +1,11 @@
+# HAKKINDA/ABOUT
+
+# TR
+Burada geçmiş yıllarda MS-DOS için yaptığım bazı çalışmaları bulacaksınız. Burası benim işlerimin bir nevi müzesidir.
+
+# EN
+Here you will find some of my work from the past years, made for MS-DOS. This is a kind of museum of my work.
+
 # 1CWATCH MS-DOS TSR CLOCK
 
 ![1CWATCH](https://github.com/AIntelligent/MSDOS/blob/ebaa74adf68421166e9397e195e6e2bfa1c0a197/1CWATCH/screenshots/1CWATCH_1.PNG)
