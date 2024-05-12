@@ -303,5 +303,18 @@ Good luck...
 ![ANTI3_2](https://github.com/AIntelligent/MSDOS/blob/9ac9d6367ddf5d2ff6f16b67fc5f1bfbb086f5e8/ANTI3/screenshots/ANTI3_2.PNG)
 ![ANTI3_3](https://github.com/AIntelligent/MSDOS/blob/9ac9d6367ddf5d2ff6f16b67fc5f1bfbb086f5e8/ANTI3/screenshots/ANTI3_3.PNG)
 
+## GRAFIK ORTAMDA DIJITAL VE ANALOG SAAT, uyarlama 1.0
+
+    Hakan Emre KARTAL tarafından İskenderun/HATAY'da 04/05/1999 tarihinde yazıldı,
+    Borland Turbo Pascal 6.0 ile derlendi.
+
+##EN 
+    Written by Hakan Emre KARTAL in Iskenderun/HATAY on 04/05/1999, 
+    Compiled using Borland Turbo Pascal 6.0
+
+## Ekran Alıntıları/Screenshots
+![SAAT_1](https://github.com/AIntelligent/MSDOS/blob/95f67ca4a09f7de70ac34c785d2c89a6f48682bb/SAAT/screenshots/SAAT_1.PNG)
+    
+
 Hakan Emre KARTAL
 hek@nula.com.tr
