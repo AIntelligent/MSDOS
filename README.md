@@ -308,7 +308,7 @@ Good luck...
     Hakan Emre KARTAL tarafından İskenderun/HATAY'da 04/05/1999 tarihinde yazıldı,
     Borland Turbo Pascal 6.0 ile derlendi.
 
-##EN 
+## EN 
     Written by Hakan Emre KARTAL in Iskenderun/HATAY on 04/05/1999, 
     Compiled using Borland Turbo Pascal 6.0
 
