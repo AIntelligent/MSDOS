@@ -199,7 +199,7 @@ begin
 
   if (GraphResult <> GrOk) then
   begin
-    WriteLn('Grafik srcs yklenemedi...');
+    WriteLn('Grafik sÂrÂcÂsÂ yÂklenemedi...');
     Halt;
   end;
 
