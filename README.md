@@ -299,6 +299,9 @@ Good luck...
     Compiled using Borland Turbo Pascal 6.0
 
 ## Ekran Alıntıları/Screenshots
-![ANTI3_1](https://github.com/AIntelligent/MSDOS/blob/12a613e61a7d55bb809779aa0ae2ed45e5a617ca/ANTI3/screenshots/ANTI3_1.PNG)
-![ANTI3_2](https://github.com/AIntelligent/MSDOS/blob/12a613e61a7d55bb809779aa0ae2ed45e5a617ca/ANTI3/screenshots/ANTI3_2.PNG)
-![ANTI3_3](https://github.com/AIntelligent/MSDOS/blob/12a613e61a7d55bb809779aa0ae2ed45e5a617ca/ANTI3/screenshots/ANTI3_3.PNG)
+![ANTI3_1](https://github.com/AIntelligent/MSDOS/blob/9ac9d6367ddf5d2ff6f16b67fc5f1bfbb086f5e8/ANTI3/screenshots/ANTI3_1.PNG)
+![ANTI3_2](https://github.com/AIntelligent/MSDOS/blob/9ac9d6367ddf5d2ff6f16b67fc5f1bfbb086f5e8/ANTI3/screenshots/ANTI3_2.PNG)
+![ANTI3_3](https://github.com/AIntelligent/MSDOS/blob/9ac9d6367ddf5d2ff6f16b67fc5f1bfbb086f5e8/ANTI3/screenshots/ANTI3_3.PNG)
+
+Hakan Emre KARTAL
+hek@nula.com.tr
